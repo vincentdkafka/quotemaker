@@ -5,7 +5,7 @@ A simple web app that generates random quotes using HTML, CSS, and JavaScript. T
 
 You can try the live demo of this project here:
 
-[Live Demo Link](https://your-github-pages-link)
+[Live Demo Link](https://vincentdkafka.github.io/quotemaker/)
 
 ## Features
 
